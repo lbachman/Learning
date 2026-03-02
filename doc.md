@@ -4,4 +4,4 @@ This is the 2nd sentence with edits.
 
 This is the third sentence.  
 
-Fourth
+This is the fourth line.
