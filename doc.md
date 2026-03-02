@@ -2,6 +2,6 @@ This is the first sentence
 
 Second
 
-Third
+This is the third sentence.  
 
 Fourth
