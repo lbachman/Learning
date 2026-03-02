@@ -1,6 +1,6 @@
 This is the first sentence (with edits)
 
-Second
+This is the 2nd sentence with edits. 
 
 Third
 
